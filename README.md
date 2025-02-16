@@ -2,7 +2,7 @@
 This document contains a collection of learning resources covering different aspects of an engineering manager's work.
 I try to collect here ever-green resources that constitute a reference base helping me at my own work and making it easier to make recommendations to people that I talk to or work with.
 
-## Articles
+## Articles (+1 video)
 ### Miscellaneous
 Camille Fournier on Managing Technical Teams  
 https://www.youtube.com/watch?v=oxgfehnJ7GE
@@ -106,3 +106,25 @@ https://abdulapopoola.com/2022/01/03/9-multipliers-for-boosting-your-teams-produ
 
 Cannot Measure Productivity  
 https://martinfowler.com/bliki/CannotMeasureProductivity.html
+
+## Books
+The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change  
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+
+Accelerate: Building and Scaling High Performing Technology Organizations  
+https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
+
+The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece  
+https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374
+
+Software Engineering at Google: Lessons Learned from Programming Over Time  
+https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791
+
+Lean Software Development: An Agile Toolkit  
+https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783
+
+Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead  
+https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554812/
+
+High Output Management  
+https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
