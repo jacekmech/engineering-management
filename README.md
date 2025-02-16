@@ -2,6 +2,8 @@
 This document contains a collection of learning resources covering different aspects of an engineering manager's work.
 I try to collect here ever-green resources that constitute a reference base helping me at my own work and making it easier to make recommendations to people that I talk to or work with.
 
+The list is neither exhaustive nor static; it reflects my personal research and reading history.
+
 ## Articles (+1 video)
 ### Miscellaneous
 Camille Fournier on Managing Technical Teams  
@@ -108,23 +110,30 @@ Cannot Measure Productivity
 https://martinfowler.com/bliki/CannotMeasureProductivity.html
 
 ## Books
-The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change  
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+_The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change_  
+Structured guide for engineers transitioning into leadership, covering management principles, team dynamics, and career growth in technical organizations.  
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897  
 
-Accelerate: Building and Scaling High Performing Technology Organizations  
+_Accelerate: Building and Scaling High Performing Technology Organizations_  
+Research-backed insights on improving software delivery performance through DevOps practices, lean principles, and organizational culture.  
 https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
 
-The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece  
+_The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece_  
+Explores an incremental, value-driven approach to software development, emphasizing simplicity and continuous delivery.  
 https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374
 
-Software Engineering at Google: Lessons Learned from Programming Over Time  
+_Software Engineering at Google: Lessons Learned from Programming Over Time_  
+Examines Google's approach to software engineering, focusing on scalability, maintainability, and long-term code sustainability.  
 https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791
 
-Lean Software Development: An Agile Toolkit  
+_Lean Software Development: An Agile Toolkit_  
+Applies lean principles to software development, providing practical tools for eliminating waste, increasing efficiency, and delivering value.  
 https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783
 
-Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead  
+_Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead_  
+Explores Google's innovative workplace culture and management practices, offering insights on leadership, hiring, and employee engagement.
 https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554812/
 
-High Output Management  
+_High Output Management_  
+Focuses on practical management techniques for improving productivity, decision-making, and team performance in organizations.
 https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
