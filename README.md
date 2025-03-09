@@ -131,9 +131,13 @@ Applies lean principles to software development, providing practical tools for e
 https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783
 
 _Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead_  
-Explores Google's innovative workplace culture and management practices, offering insights on leadership, hiring, and employee engagement.
+Explores Google's innovative workplace culture and management practices, offering insights on leadership, hiring, and employee engagement.  
 https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554812/
 
 _High Output Management_  
 Focuses on practical management techniques for improving productivity, decision-making, and team performance in organizations.
 https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
+
+_Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness_  
+Explores how businesses can evolve beyond hierarchies by adopting self-managing, purpose-driven, and holistic approaches to organization.  
+https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness/dp/B0D8WSWR1Y/
