@@ -135,7 +135,7 @@ Explores Google's innovative workplace culture and management practices, offerin
 https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554812/
 
 _High Output Management_  
-Focuses on practical management techniques for improving productivity, decision-making, and team performance in organizations.
+Focuses on practical management techniques for improving productivity, decision-making, and team performance in organizations.  
 https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
 
 _Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness_  
