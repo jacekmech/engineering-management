@@ -85,7 +85,7 @@ The four golden signals
 https://sre.google/sre-book/monitoring-distributed-systems/
 
 40+ Metrics for Software Teams  
-https://www.andycleff.com/wp-content/uploads/2015/05/Metrics-3.0-M3.0.pdf
+https://www.andycleff.com/wp-content/uploads/2025/11/Metrics-3.0-M3.0-v4.pdf
 
 How Skyscanner Embedded a Team Metrics Culture for Continuous Improvement  
 https://www.infoq.com/articles/Skyscanner-metrics-culture-improvement
